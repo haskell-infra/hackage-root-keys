@@ -1,0 +1,62 @@
+Content-Type: multipart/mixed; boundary="Cm6VAdgq0gsaI3bveHgt4JrQCqWXgD7sd"
+From: Adam Gundry <adam@well-typed.com>
+To: Duncan Coutts <duncan@dcoutts.me.uk>
+Cc: admin@hackage.haskell.org, admin@haskell.org, committee@haskell.org
+Message-ID: <f485029f-d52e-6728-55c5-6fba383be8d7@well-typed.com>
+Subject: Re: Signing Hackage root keys: linking GPG web of trust to Hackage
+ root keys
+References: <1461876534.17135.177.camel@dcoutts.me.uk>
+In-Reply-To: <1461876534.17135.177.camel@dcoutts.me.uk>
+
+--Cm6VAdgq0gsaI3bveHgt4JrQCqWXgD7sd
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+On 28/04/16 21:48, Duncan Coutts wrote:
+> Dear Hackage root key holders,
+>=20
+> It's time to get signing things!
+>=20
+> The purpose of this email is to ask you to generate verifiable public
+> evidence that the rest of the community can use to establish trust in
+> the Hackage root of trust.
+>=20
+> Members of the community rely on knowing that the Hackage root keys
+> really do belong to all you sensible responsible people. So your
+> participation here means something. This is not empty formalism.
+>=20
+> Now I have reason to believe that the following public keys are the
+> public half of key pairs that each of you generated yourselves and
+> where you keep the private half secret. I also have reason to believe
+> that you understand the Hackage root signing process and your
+> responsibilities to the community in this regard.
+>=20
+> To help other people in the community reach the same belief, could each=
+
+> of you reply by GPG-signed email and confirm that:
+>    1. you do indeed hold the private part of the key in question and th=
+at
+>       you keep it secret with a reasonable standard of security.
+>    2. you think you understand the Hackage root signing process (i.e.
+>       you're not likely to be tricked into signing something you should=
+
+>       not)
+
+Yes, I confirm this.
+
+> So, the 7 keys holders and their public keys are
+>=20
+> Adam Gundry
+> {"keytype":"ed25519","keyval":
+> {"public":"uRPdSiL3/MNsk50z6NB55ABo0OrrNDXigtCul4vtzmw=3D"}}
+
+Yes, this is the public part of my key.
+
+Adam
+
+--=20
+Adam Gundry, Haskell Consultant
+Well-Typed LLP, http://www.well-typed.com/
+
+
+--Cm6VAdgq0gsaI3bveHgt4JrQCqWXgD7sd--
