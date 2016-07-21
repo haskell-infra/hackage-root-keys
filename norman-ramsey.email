@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I no longer hold the private part of the key you know about.  (I lost
+the dongle holding it.).  Therefore my public key should be invalidated.
+
+I have generated a new keypair whose public key is
+
+{"keytype":"ed25519","keyval":{"public":"ZI8di3a9Un0s2RBrt5GwVRvfOXVuywADfXGPZfkiDb0="}}
+
+The private key is burned to a CD-ROM that is stored in a folder with
+other CD-ROMs in my home office.  (You don't need to know this, but
+when I need to find it again, this email will tell me where to look.)
+It~is not stored on any hard drive, so it should be secure.
+
+What I understand about the signing process is this:
+
+  - If and when I sign the root info, I will be promising that
+    I believe the root keys listed do belong to the people that are
+    claimed to own them, which I will verify by checking gpg-signed
+    emails. 
+
+  - If and when I sign an operational key it will be because I believe
+    the key is being issued to someone authorized to operate the
+    hackage servers, again as verified by gpg-signed emails.
+
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEARECAAYFAlcx+6AACgkQvQHXBHJ2NhT3kACeLXIqTGGkDE4b5WHDCduCjiAf
+cQsAn2wIdTu/a/2Goxc/ooYF6/t45zdF
+=ENar
+-----END PGP SIGNATURE-----
+
