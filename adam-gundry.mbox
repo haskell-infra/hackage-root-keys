@@ -1,0 +1,90 @@
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--cc2eKsW7S94X5DjPi0UlpNdeu2xkXwxNE
+Content-Type: multipart/mixed; boundary="Cm6VAdgq0gsaI3bveHgt4JrQCqWXgD7sd"
+From: Adam Gundry <adam@well-typed.com>
+To: Duncan Coutts <duncan@dcoutts.me.uk>
+Cc: admin@hackage.haskell.org, admin@haskell.org, committee@haskell.org
+Message-ID: <f485029f-d52e-6728-55c5-6fba383be8d7@well-typed.com>
+Subject: Re: Signing Hackage root keys: linking GPG web of trust to Hackage
+ root keys
+References: <1461876534.17135.177.camel@dcoutts.me.uk>
+In-Reply-To: <1461876534.17135.177.camel@dcoutts.me.uk>
+
+--Cm6VAdgq0gsaI3bveHgt4JrQCqWXgD7sd
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+On 28/04/16 21:48, Duncan Coutts wrote:
+> Dear Hackage root key holders,
+>=20
+> It's time to get signing things!
+>=20
+> The purpose of this email is to ask you to generate verifiable public
+> evidence that the rest of the community can use to establish trust in
+> the Hackage root of trust.
+>=20
+> Members of the community rely on knowing that the Hackage root keys
+> really do belong to all you sensible responsible people. So your
+> participation here means something. This is not empty formalism.
+>=20
+> Now I have reason to believe that the following public keys are the
+> public half of key pairs that each of you generated yourselves and
+> where you keep the private half secret. I also have reason to believe
+> that you understand the Hackage root signing process and your
+> responsibilities to the community in this regard.
+>=20
+> To help other people in the community reach the same belief, could each=
+
+> of you reply by GPG-signed email and confirm that:
+>    1. you do indeed hold the private part of the key in question and th=
+at
+>       you keep it secret with a reasonable standard of security.
+>    2. you think you understand the Hackage root signing process (i.e.
+>       you're not likely to be tricked into signing something you should=
+
+>       not)
+
+Yes, I confirm this.
+
+> So, the 7 keys holders and their public keys are
+>=20
+> Adam Gundry
+> {"keytype":"ed25519","keyval":
+> {"public":"uRPdSiL3/MNsk50z6NB55ABo0OrrNDXigtCul4vtzmw=3D"}}
+
+Yes, this is the public part of my key.
+
+Adam
+
+--=20
+Adam Gundry, Haskell Consultant
+Well-Typed LLP, http://www.well-typed.com/
+
+
+--Cm6VAdgq0gsaI3bveHgt4JrQCqWXgD7sd--
+
+--cc2eKsW7S94X5DjPi0UlpNdeu2xkXwxNE
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.20 (GNU/Linux)
+
+iQIcBAEBAgAGBQJXKIQEAAoJENSJjAQsWvxLOu8QAJHlzdPSqQT3lVXDviyirUj2
+awWCTCzri60HpETKnXiKKc6pzHahLiZ9kLlildmq60Cire7QobwPQ3m83z6t6xy4
+bRfLWeBVDpOYtb69w1UtuoY4EHicmV9AqVxq9+qxkwMHDjfxxWqYDRoX9vF+DPmu
+TdYuOnwtJ0QhUKORSZGqiV0Rpd+cmKqntPBjHs20DQfur+nSU5rTwbfuTekCbyjq
+vIYkNHqsViG1pgh92KPrcU5KbfPFrrp6qqIuct077bkSJh79mtlicrwx6L//lzkD
+msmT4Lhwol56ViTmoIms5VoZwGIFL9ZlMx3zMFGe/SUoTHbMUNQ5Zk0mVSTur98V
+oDpJYIgkXHbnI8De8YIhWrUUMB9Gpa0hFujGCpKz4y+XXYtECo5pMHy1uG7ijaft
+6y+a8YQDNWjQpNaTZrhK8Kqanr9g2NcM4xRtJp6tDPxDNnozmnq4DsjkV9dodl2B
+gZd2j2DMKnz89mcBkb1Iu3qzbqJaD+bxSZdQsVjYbHjE0z4Q2oIx5HCBgspaSrRb
+fU23UaExKS8n47zhIu+fxYvq5XO4rBRZJD6OB9pWnPW8zn+FuChWZz3/Dk7qaBaM
+TN12b2nYWny/UMYi26iG6wm0mZ6NDaIjBG22hx+J8g/PD2SrUC/XYAuTVDsn7K8W
+DcsBGVEnKxhrUPYM6/u5
+=5jQJ
+-----END PGP SIGNATURE-----
+
+--cc2eKsW7S94X5DjPi0UlpNdeu2xkXwxNE--
+

@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+On Thu, 2016-04-28 at 16:48 -0400, Duncan Coutts wrote:
+>
+> Now I have reason to believe that the following public keys are the
+> public half of key pairs that each of you generated yourselves and
+> where you keep the private half secret. I also have reason to believe
+> that you understand the Hackage root signing process and your
+> responsibilities to the community in this regard.
+>
+> To help other people in the community reach the same belief, could
+> each of you reply by GPG-signed email and confirm that:
+>    1. you do indeed hold the private part of the key in question and
+>       that you keep it secret with a reasonable standard of security.
+>    2. you think you understand the Hackage root signing process (i.e
+>       you're not likely to be tricked into signing something you
+>       should not)
+
+Yes. I can confirm this.
+
+> So, the 7 keys holders and their public keys are
+>
+> Johan Tibell
+> {"keytype":"ed25519","keyval":{"public":"upX15i8muhGb3o/T4DFac/b9Bfl4dnuj1dvoLEO4QWQ="}}
+
+I had to generate a new key as the one we generated at ICFP is
+unavailable to me at the moment (in one of my moving boxes in
+Switzerland). My new key is
+
+{"keytype":"ed25519","keyval":{"public":"+wEgOiF0TgsGkQfACL8WYsZq2kdkNYncUy7fO375NH8="}}
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBAgAGBQJXLTKRAAoJEJvirjy+PRjfMBQQAIITtKLQs0ZnYTREk3DD1P5x
+Y8lxhxxAcVawAoo/l70sxipkmct5nSqc9Ga8FsvVdAEI3I272R2xh1Vhi99ZtR2n
+204JjOVCpvt+xH0O2F0SuEC+Y166WbT/a7bENVHfLYWhVSLJYWV1jQI9hblFA8an
+myeO9t2w73C9wXpU1xHq0jTcMP3YCMzsGFvR5+n/4HJ73RTM+KQd3k0xqcId3o0b
+rHPWrx+XGMYd2J8UePlCLSICMGWbHvKlWRhCfqDXLODKYmOhxTgHsEQH+aV2/PT9
+Oc/E6mbJhbP42fOXrwkDr+KW2FzjIcV0D1ZWnaavqsqQBWXCU1+clrlyCjiSFZPW
+O9qqLWWTaooU1ihi8aQdrqjkobHqxG+KtL4cJ5gAobiGJqj9ADP0+RqDSfsWkWto
+MNq8Y5tl/h9eiyMHIZ1FKlpFyYnNFogZ/erViuirz0XHNKLhDxey3G2EBq8aZgY1
+Kt/dpa9gU2+LguZVWZgs2iOdrSvQ6Lx/cvI7uCfX/fonu6rVpKf1hDwPZy4zn9+O
+R8qGnt/nP9rboBO5XK3Gb7k2cIjpBO6lbQATz+9/Z8kPHWvQBI1GOGU8THLupQWx
+Iiy+0tt/l7o6ZQVE14fpR6PfiKq10TJ3Un547zLfZkuRdKmvEOi1/f+vrkC0qy1L
+yHSi9LTD8IVWj9dI+ZtB
+=j5Yg
+-----END PGP SIGNATURE-----

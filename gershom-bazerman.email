@@ -1,0 +1,53 @@
+On April 28, 2016 at 4:49:12 PM, Duncan Coutts (duncan@dcoutts.me.uk) wrote:
+> Dear Hackage root key holders,
+> 
+> It's time to get signing things!
+> 
+> The purpose of this email is to ask you to generate verifiable public
+> evidence that the rest of the community can use to establish trust in
+> the Hackage root of trust.
+> 
+> Members of the community rely on knowing that the Hackage root keys
+> really do belong to all you sensible responsible people. So your
+> participation here means something. This is not empty formalism.
+> 
+> Now I have reason to believe that the following public keys are the
+> public half of key pairs that each of you generated yourselves and
+> where you keep the private half secret. I also have reason to believe
+> that you understand the Hackage root signing process and your
+> responsibilities to the community in this regard.
+> 
+> To help other people in the community reach the same belief, could each
+> of you reply by GPG-signed email and confirm that:
+> 1. you do indeed hold the private part of the key in question and that
+> you keep it secret with a reasonable standard of security.
+> 2. you think you understand the Hackage root signing process (i.e.
+> you're not likely to be tricked into signing something you should
+> not)
+> 
+> Please keep the various admin & committee cc address in your reply, and
+> keep enough of the text of this email in your signed reply to establish
+> context. We will likely publish these replies so that anyone can use
+> the GPG web of trust to establish trust in the Hackage root keys.
+> 
+> We had an original target of 10 root key holders and we asked 11
+> people. We have managed to collect keys from 7 people which we feel is
+> good enough to get started with. We may add those people later or ask
+> other people to get us back closer to 10. The threshold for signing the
+> root keys set remains at 3 as previously discussed.
+> 
+> Once we have GPG-signed replies from the root key holders we will then
+> ask 3 (or more) key holders to sign the root key set, by the usual
+> process.
+> 
+> So, the 7 keys holders and their public keys are
+> 
+> Adam Gundry
+> {"keytype":"ed25519","keyval":{"public":"uRPdSiL3/MNsk50z6NB55ABo0OrrNDXigtCul4vtzmw="}} 
+> 
+> Gershom Bazerman
+> {"keytype":"ed25519","keyval":{"public":"bYoUXXQ9TtX10UriaMiQtTccuXPGnmldP68djzZ7cLo="}} 
+
+This is indeed my key, and I confirm that I understand the signing process.
+
+ÑGershom
