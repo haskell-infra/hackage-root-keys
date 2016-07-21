@@ -1,0 +1,36 @@
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+>>>>> Duncan Coutts <duncan@dcoutts.me.uk> writes:
+
+> To help other people in the community reach the same belief, could each of
+> you reply by GPG-signed email and confirm that: 1. you do indeed hold the
+> private part of the key in question and that you keep it secret with a
+> reasonable standard of security. 2. you think you understand the=C2=A0Hac=
+kage
+> root signing process (i.e. you're not likely to be tricked into signing
+> something you should not)
+
+I do hold the private part of my key, kept physically separate from all
+Internet-connected computers, on a USB key in a safe place. I also have a
+dedicated laptop that I run Tails on when I wish to sign other keys.
+
+I understand the Hackage root signing process enough not to be tricked, mai=
+nly
+because I'm unlikely to start signing things without personally communicati=
+ng
+first with either you or Gershom.
+
+However, I'd like to understand the whole process in greater detail,
+especially as it relates to Hackage. I've read up quite a bit on the GPG
+signing process, so I'm interested to know exactly how this one differs.
+
+Lastly, my GPG signing key is located on a physical Yubikey, protected by P=
+IN,
+which I hope will give a bit of extra authenticity to my signatures. I have
+backups of my signing key in the same location where the Hackage key is kep=
+t.
+
+=2D-=20
+John Wiegley                  GPG fingerprint =3D 4710 CF98 AF9B 327B B80F
+http://newartisans.com                          60E1 46C4 BD1A 7AC1 4BA2
