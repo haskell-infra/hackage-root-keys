@@ -1,5 +1,11 @@
 {
-    "signatures": [],
+    "signatures": [
+      {
+        "keyid":"fe331502606802feac15e514d9b9ea83fee8b6ffef71335479a2e68d84adc6b0",
+        "method":"ed25519",
+        "sig":"SmAxDgEMLLKJl0sJnHh/uLwZx8CMP0zdrMqpS/19eDpeH/MHt6a4ydDBeuRtEOn3xH52bfqhRGXVaKi7aWSfBw=="
+      }
+    ],
     "signed": {
         "_type": "Root",
         "expires": "2019-07-21T18:34:14Z",
