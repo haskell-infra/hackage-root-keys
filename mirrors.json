@@ -1,17 +1,19 @@
 {
-    "signatures": [
-        {
-            "keyid": "280b10153a522681163658cb49f632cde3f38d768b736ddbc901d99a1a772833",
-            "method":"ed25519",
-            "sig":"tU9GLh+s3q3VXc93etIwks4iYyutNrAjKl7kvjkz/zofnqK4d+bBTvEefT1b6QhwoG5z/nhC7y+srtUsCz/eBQ=="
-        }
-    ],
-    "signed": {
-        "_type": "Mirrorlist",
-        "expires": "2026-07-21T18:42:28Z",
-        "mirrors": [
-            { "urlbase":"http://objects.dreamhost.com/hackage-mirror/" }
-        ],
-        "version": 1
+  "signatures": [
+    {
+      "keyid": "280b10153a522681163658cb49f632cde3f38d768b736ddbc901d99a1a772833",
+      "method": "ed25519",
+      "sig": "tU9GLh+s3q3VXc93etIwks4iYyutNrAjKl7kvjkz/zofnqK4d+bBTvEefT1b6QhwoG5z/nhC7y+srtUsCz/eBQ=="
     }
+  ],
+  "signed": {
+    "_type": "Mirrorlist",
+    "expires": "2026-07-21T18:42:28Z",
+    "mirrors": [
+      {
+        "urlbase": "http://objects.dreamhost.com/hackage-mirror/"
+      }
+    ],
+    "version": 1
+  }
 }
