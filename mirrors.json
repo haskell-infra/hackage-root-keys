@@ -1,17 +1,17 @@
 {
   "signatures": [
     {
-      "keyid": "280b10153a522681163658cb49f632cde3f38d768b736ddbc901d99a1a772833",
+      "keyid": "772e9f4c7db33d251d5c6e357199c819e569d130857dc225549b40845ff0890d",
       "method": "ed25519",
-      "sig": "tU9GLh+s3q3VXc93etIwks4iYyutNrAjKl7kvjkz/zofnqK4d+bBTvEefT1b6QhwoG5z/nhC7y+srtUsCz/eBQ=="
+      "sig": "8yRP/do5IxQhUEtJQES+gCgc20c9LfAokL5shpa5RsofAsiuUWis2HMZD4Oa+SG9bnR7Evy7HVdwBnu+r9FNAg=="
     }
   ],
   "signed": {
     "_type": "Mirrorlist",
-    "expires": "2026-07-21T18:42:28Z",
+    "expires": "2017-12-31T23:59:59Z",
     "mirrors": [
       {
-        "urlbase": "http://objects.dreamhost.com/hackage-mirror/"
+        "urlbase": "http://objects-us-west-1.dream.io/hackage-mirror/"
       }
     ],
     "version": 1
