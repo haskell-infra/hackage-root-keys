@@ -3,7 +3,7 @@
     {
       "keyid": "772e9f4c7db33d251d5c6e357199c819e569d130857dc225549b40845ff0890d",
       "method": "ed25519",
-      "sig": "8yRP/do5IxQhUEtJQES+gCgc20c9LfAokL5shpa5RsofAsiuUWis2HMZD4Oa+SG9bnR7Evy7HVdwBnu+r9FNAg=="
+      "sig": "uDb1UO/xBnj4CwLg/A7BqMyiAVdz5Sfo7M/cJPuh9ayURDV5iI2dEkhi2R5i5mupEbMcKyPKIW2XtBc4/ih8Cg=="
     }
   ],
   "signed": {
@@ -14,6 +14,6 @@
         "urlbase": "http://objects-us-west-1.dream.io/hackage-mirror/"
       }
     ],
-    "version": 1
+    "version": 2
   }
 }
