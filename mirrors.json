@@ -3,7 +3,7 @@
     {
       "keyid": "772e9f4c7db33d251d5c6e357199c819e569d130857dc225549b40845ff0890d",
       "method": "ed25519",
-      "sig": "uDb1UO/xBnj4CwLg/A7BqMyiAVdz5Sfo7M/cJPuh9ayURDV5iI2dEkhi2R5i5mupEbMcKyPKIW2XtBc4/ih8Cg=="
+      "sig": "F2Z4AJrLxCgDftAXhz6G6Impm8nXciggFH9ZrLlyINJNDCK3knNT3SMk5WeZzr9mPbL+3f2evKSSr75nVVTKAg=="
     }
   ],
   "signed": {
@@ -11,9 +11,12 @@
     "expires": "2017-12-31T23:59:59Z",
     "mirrors": [
       {
+        "urlbase": "http://hackage.fpcomplete.com/"
+      },
+      {
         "urlbase": "http://objects-us-west-1.dream.io/hackage-mirror/"
       }
     ],
-    "version": 2
+    "version": 3
   }
 }
