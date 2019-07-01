@@ -3,20 +3,20 @@
     {
       "keyid": "772e9f4c7db33d251d5c6e357199c819e569d130857dc225549b40845ff0890d",
       "method": "ed25519",
-      "sig": "F2Z4AJrLxCgDftAXhz6G6Impm8nXciggFH9ZrLlyINJNDCK3knNT3SMk5WeZzr9mPbL+3f2evKSSr75nVVTKAg=="
+      "sig": "pE1lxK+hBG0vi0rcDMtpzsXtNC9RnG0ZBLVzn9yD34nVfimVFTNI6hLjZN91SQd3cPiV4kaHryvQ006Eh28vCA=="
     }
   ],
   "signed": {
     "_type": "Mirrorlist",
-    "expires": "2017-12-31T23:59:59Z",
+    "expires": "2020-01-01T23:59:59Z",
     "mirrors": [
       {
         "urlbase": "http://hackage.fpcomplete.com/"
       },
       {
-        "urlbase": "http://objects-us-west-1.dream.io/hackage-mirror/"
+        "urlbase": "http://objects-us-east-1.dream.io/hackage-mirror/"
       }
     ],
-    "version": 3
+    "version": 6
   }
 }
