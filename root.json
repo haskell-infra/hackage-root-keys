@@ -1,5 +1,25 @@
 {
   "signatures": [
+    {
+      "keyid": "0a5c7ea47cd1b15f01f5f51a33adda7e655bc0f0b0615baa8e271f4c3351e21d",
+      "method": "ed25519",
+      "sig": "0OfOyEy+9uERUErZUZmTmuEjME7q7q8IoB0o8KxI75Bt2ND95+OAhhxvUFkdhgdE5xQWEubW1cJke4QLxIysDQ=="
+    },
+    {
+      "keyid": "1ea9ba32c526d1cc91ab5e5bd364ec5e9e8cb67179a471872f6e26f0ae773d42",
+      "method": "ed25519",
+      "sig": "LCOZXAwHZJvWMv3JGVIhsY17UBsmBqjYPxCC4xulS0ox5+VqFpJYeOdEyDq8kOqbgzu8dSehPLsWWj93CIxGBQ=="
+    },
+    {
+      "keyid": "51f0161b906011b52c6613376b1ae937670da69322113a246a09f807c62f6921",
+      "method": "ed25519",
+      "sig": "jdJyyzRP3Rorv6bXwfomAiFbDBzovCGV+q5BLy6G15kHQyPa9nfuW2IKUXIgA4KVDgyFHAeJxcqo/o8zBVysAA=="
+    },
+    {
+      "keyid": "fe331502606802feac15e514d9b9ea83fee8b6ffef71335479a2e68d84adc6b0",
+      "method": "ed25519",
+      "sig": "ny9ZCVqNFu54GO7qunclt0IjCyYXP8BeluOgbzkOGVxZpAMpK8PXEjFi5upQPCTRhS8w5fl+t/2Gq21USzvzDw=="
+    }
   ],
   "signed": {
     "_type": "Root",
