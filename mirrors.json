@@ -1,14 +1,8 @@
 {
-  "signatures": [
-    {
-      "keyid": "280b10153a522681163658cb49f632cde3f38d768b736ddbc901d99a1a772833",
-      "method": "ed25519",
-      "sig": "KeF55YLlTZ8mhYP7Pl+SsVR665yfZEQnsYBPZ31Lm7HwuFQg7qDj6N9UJ7OhMB/lR5AaZ2k8j5hN6kG74kjJAQ=="
-    }
-  ],
+  "signatures": [{"keyid":"280b10153a522681163658cb49f632cde3f38d768b736ddbc901d99a1a772833","method":"ed25519","sig":"9YaOmIr/m1oSrYkITopMthF8pExyqmjHCDXPytt2DqDYB/5NlYUDXtXNr1Y1yTKglLNEE2+c720N2un0lnEQCg=="}],
   "signed": {
     "_type": "Mirrorlist",
-    "expires": "2022-06-01T23:59:59Z",
+    "expires": "2023-06-01T23:59:59Z",
     "mirrors": [
       {
         "urlbase": "http://hackage.fpcomplete.com/"
@@ -17,6 +11,6 @@
         "urlbase": "http://objects-us-east-1.dream.io/hackage-mirror/"
       }
     ],
-    "version": 8
+    "version": 9
   }
 }
