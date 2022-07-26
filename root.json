@@ -1,24 +1,24 @@
 {
   "signatures": [
     {
-      "keyid": "51f0161b906011b52c6613376b1ae937670da69322113a246a09f807c62f6921",
+      "keyid": "1ea9ba32c526d1cc91ab5e5bd364ec5e9e8cb67179a471872f6e26f0ae773d42",
       "method": "ed25519",
-      "sig": "AqRKpnmVj7VC04bxYun9G12EqzlOuLR4ugxD2fuo4kCN94+ps+gSU3f0Geiy8BvI7jWEKJlxzx2kR7tGeEcZCQ=="
+      "sig": "XcDelEzx7I1cYJ/VU/KtoqJbQw4kS9yQydnRjfE/iQkw8wWWWMeA06p2aPdgMj5BjjIJUpfIYOgcg3KxuzabBQ=="
     },
     {
       "keyid": "fe331502606802feac15e514d9b9ea83fee8b6ffef71335479a2e68d84adc6b0",
       "method": "ed25519",
-      "sig": "Xo/6i0MTGMmuh7w1BZtiluTN6lXyUSwx0L2QqO61dH/MsX9CstJt9g2sgwONtn0qgINlVuE3SUzPv4G1jzRSBA=="
+      "sig": "u2lFlq8Qu8kZiP2iyOFB5fWG62mP21g8aEduBGAowh05vwO+YDK8UOO8+zUXSyZ+55z+xwi4UFF2N3gHc/eQCA=="
     },
     {
       "keyid": "0a5c7ea47cd1b15f01f5f51a33adda7e655bc0f0b0615baa8e271f4c3351e21d",
       "method": "ed25519",
-      "sig": "No8d1pubIqrZTWzWb9gj/kAKp8qjvhEcKd7FWE8yUUxr46+CGyBJ/7VjhPvaA2sWCxNnvl+62li5HpPmFvwqDQ=="
+      "sig": "zKsfttWj6sD8DWbTgybCvdhc5YBJJUV9r0sq9VBubrZJ9F26NbTG/t8SqkTYFt452gYjEyhXvY28lmacO0YbDg=="
     }
   ],
   "signed": {
     "_type": "Root",
-    "expires": "2022-07-31T23:59:59Z",
+    "expires": "2023-07-31T23:59:59Z",
     "keys": {
       "0a5c7ea47cd1b15f01f5f51a33adda7e655bc0f0b0615baa8e271f4c3351e21d": {
         "keytype": "ed25519",
@@ -73,13 +73,21 @@
         "keyval": {
           "public": "uRPdSiL3/MNsk50z6NB55ABo0OrrNDXigtCul4vtzmw="
         }
+      },
+      "ae2c941863a3219fb3a12579a020642b912ab39b4ff3d1cc20ad317afd0d94c5": {
+        "keytype":"ed25519",
+        "keyval": {
+          "public":"m/y6qGlVTmG9i51hfz5ebhenP82vM6oYokkQsj8Pcx4="
+        }
       }
     },
     "roles": {
       "mirrors": {
         "keyids": [
           "280b10153a522681163658cb49f632cde3f38d768b736ddbc901d99a1a772833",
-          "772e9f4c7db33d251d5c6e357199c819e569d130857dc225549b40845ff0890d"
+          "772e9f4c7db33d251d5c6e357199c819e569d130857dc225549b40845ff0890d",
+          "ae2c941863a3219fb3a12579a020642b912ab39b4ff3d1cc20ad317afd0d94c5",
+          "1ea9ba32c526d1cc91ab5e5bd364ec5e9e8cb67179a471872f6e26f0ae773d42"
         ],
         "threshold": 1
       },
@@ -110,6 +118,6 @@
         "threshold": 1
       }
     },
-    "version": 3
+    "version": 4
   }
 }
