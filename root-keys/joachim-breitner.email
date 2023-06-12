@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+This is my hackage root key, created 2023-06-12:
+{"keytype":"ed25519","keyval":{"public":"5iUgwqZCWrCJktqMx0bBMIuoIyT4A1RYGozzchRN9rA="}}
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEGkYIf5Vdk8V8YFcbPZCKs/D79R8FAmSHetgACgkQPZCKs/D7
+9R/t4g//T0jgrzjthhBgy7MIWsWbIWoBrk+Y/HjloDN2scx4/7sJG7jX6r+U7Tjh
+QjuqQ3h/6Ldk8CXShrRamuVnX+0mmw8ZKdz8LIhtMCDSMOJ/AyXkWMElssun5BGH
+cLjkfLziZkEx9XpPYjkldwRovI+CFeUA2MaROHpQ4fY+oJEkCAhB8lDC0Dc+XnIj
+jcTGTLlLUDFd6svpBsoZS6f4WUOW/vQJsXMJWeMApVdeisGNcGL23ETHVc1b+Dbt
+JHIdBwwMA6IX24EvIuefKIGczEm82yuza2Hbwb7v6GSFo1BzfNxgoFoCU4fvNrfI
+AHC+1xQ7muEYwdbdxTfO3FMqnITxAPci35HKIdnKc9HIhjkAS2jc95wl4U3BXUjH
+GSDD4f1ROXNkjfzAh3lqQwlRe68j1WfPVhbZILJPa6Tp2EIGVUieq+F0brKFbcoe
+QwTpHrzf7G7lqMrOm3sdcecpu0yEeNndnjUqNumFmjkfyHFiejLRUhgOqIZGKUjS
+4VxvZZFpDn8f7h81PXJQ4fudsT0C+SCZLUhMz9eADeNhBhexmwhTjXPOkjDbBIeC
+Bzc/THaVVhFk46iv3RjBhInoxp7cN5k+yP/iLw3xGt/VdkmM5QL+SP07yE4HjfBd
+Ut/GXzng/qy2IJ4zjJathPjm/kkuO0ncLApijcf4goaI7gu/2Bs=
+=m39v
+-----END PGP SIGNATURE-----
