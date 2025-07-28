@@ -1,12 +1,12 @@
 {
   "signatures": [
-    {"keyid":"fe331502606802feac15e514d9b9ea83fee8b6ffef71335479a2e68d84adc6b0","method":"ed25519","sig":"/lbPeN7n8ESPdN70tE0Nq09sUYdUnL6+zVv18CYRJ6dkXxGO7iqS6nSRc4Hgi/taiea9kdsaeXrJvrtx99dCAw=="},
-    {"keyid":"1ea9ba32c526d1cc91ab5e5bd364ec5e9e8cb67179a471872f6e26f0ae773d42","method":"ed25519","sig":"vTzcGRuk1keoirL7VOD4yWXGxuND8KfrIThAR/wPb8QVSLOnYrw1VBbSoTF+eKg2OZUpdJYc4L1XTGH/BUmRDg=="},
-    {"keyid":"0a5c7ea47cd1b15f01f5f51a33adda7e655bc0f0b0615baa8e271f4c3351e21d","method":"ed25519","sig":"Anr6nU1uwZkx2O9VnKhuIWz6MRPQKSx/Zl/WmqgU07QdSaDA7DmxsEvOBoTxf0NJ4MxCAQYG2xW/bvvb7afYAA=="}
+    {"keyid":"d26e46f3b631aae1433b89379a6c68bd417eb5d1c408f0643dcc07757fece522","method":"ed25519","sig":"NHq3YXY+quGYC0FFR/8CJNEXxAw1ZdUZv1U+jaDb6yE7McPjbJhSjZzyd5HNZD3VtO/jpMEaki3VmYNTjiu7Bw=="},
+    {"keyid":"0a5c7ea47cd1b15f01f5f51a33adda7e655bc0f0b0615baa8e271f4c3351e21d","method":"ed25519","sig":"tVORBg4g11IxafkaUkqYgcHAsHm07eK4gQ26ohkHIm1wwb9pqLWpKRGM3x6974B9IcJw+gNt8Yo1w0KOWcJRAQ=="},
+    {"keyid":"fe331502606802feac15e514d9b9ea83fee8b6ffef71335479a2e68d84adc6b0","method":"ed25519","sig":"mqiJgl+FHtZVLImsIWvsK/XyrVM4V33WxSRlj/grYmMkfjc0MfkBJ42pvylQ5ZijpZGHWLZachTADH3rZUEqAg=="}
   ],
   "signed": {
     "_type": "Root",
-    "expires": "2025-07-31T23:59:59Z",
+    "expires": "2026-07-31T23:59:59Z",
     "keys": {
       "0a5c7ea47cd1b15f01f5f51a33adda7e655bc0f0b0615baa8e271f4c3351e21d": {
         "keytype": "ed25519",
@@ -62,6 +62,12 @@
           "public":"m/y6qGlVTmG9i51hfz5ebhenP82vM6oYokkQsj8Pcx4="
         }
       },
+      "c7de58fc6a224b92b5b513f26fbb8b370f2d97c7cfe0075a951314a55734be93": {
+        "keytype":"ed25519",
+        "keyval": {
+          "public": "06nM6r1kOYt49YE5e1+j8VKiiYUFjFQ6HrOpPZu+fDE="
+        }
+      },
       "d26e46f3b631aae1433b89379a6c68bd417eb5d1c408f0643dcc07757fece522": {
         "keytype":"ed25519",
         "keyval": {
@@ -85,6 +91,7 @@
           "1ea9ba32c526d1cc91ab5e5bd364ec5e9e8cb67179a471872f6e26f0ae773d42",
           "0a5c7ea47cd1b15f01f5f51a33adda7e655bc0f0b0615baa8e271f4c3351e21d",
           "51f0161b906011b52c6613376b1ae937670da69322113a246a09f807c62f6921",
+          "c7de58fc6a224b92b5b513f26fbb8b370f2d97c7cfe0075a951314a55734be93",
           "d26e46f3b631aae1433b89379a6c68bd417eb5d1c408f0643dcc07757fece522"
         ],
         "threshold": 3
@@ -106,6 +113,6 @@
         "threshold": 1
       }
     },
-    "version": 6
+    "version": 7
   }
 }
